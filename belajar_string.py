@@ -19,4 +19,4 @@ print(celana[0:-1])
 # yang ada dalam bracket ini indexing
 #Ini adalah kata Mutiara
 #012 345678
-#baris dengan -1 dihitung dari huruf terakhir kata
+#baris dengan -1 dihitung dari huruf terakhir kata...
