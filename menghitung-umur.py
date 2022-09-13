@@ -1,0 +1,5 @@
+tanggal_lahir = input('Tanggal_lahir: ')
+print(type(tanggal_lahir))
+umur = 2022 - int(tanggal_lahir)
+print(type(umur))
+print(umur)
